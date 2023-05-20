@@ -1,5 +1,5 @@
 {% set name = "mimesis" %}
-{% set version = "9.0.0" %}
+{% set version = "10.0.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 8d9dff939c13c6ae4922c5df4cdee5fbb4c34bdd521001ca40c1ab43d43cbb0e
+  sha256: fc8c00d8a10f709e5bf6bba17f388c871742af70c0c2c1e69b067361d9f7a147
 
 build:
   number: 0
