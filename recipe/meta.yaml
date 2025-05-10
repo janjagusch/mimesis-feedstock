@@ -10,7 +10,7 @@ source:
   sha256: 7d7c76ecd680ae48afe8dc4413ef1ef1ee7ef20e16f9f9cb42892add642fc1b2
 
 build:
-  number: 0
+  number: 1
   script: {{ PYTHON }} -m pip install . -vv
   noarch: python
 
@@ -35,7 +35,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'Mimesis: fake data generator.'
+  summary: Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
   doc_url: https://mimesis.readthedocs.io/
   dev_url: https://github.com/lk-geimfari/mimesis
 
