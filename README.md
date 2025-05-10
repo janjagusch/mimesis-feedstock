@@ -7,7 +7,7 @@ Home: https://github.com/lk-geimfari/mimesis
 
 Package license: MIT
 
-Summary: Mimesis: fake data generator.
+Summary: Mimesis is a robust data generator for Python that can produce a wide range of fake data in multiple languages.
 
 Development: https://github.com/lk-geimfari/mimesis
 
