@@ -28,8 +28,6 @@ test:
   imports:
     - mimesis
     - mimesis.builtins
-    - mimesis.data
-    - mimesis.data.int
     - mimesis.providers
 
 about:
